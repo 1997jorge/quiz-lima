@@ -10,12 +10,12 @@ O Wireframe desste projeto considera não apenas computadores pessoais, mas tamb
 # Veja algumas capturas de tela, e explore os recursos.
 
 A pontuação máxima que pode alcançar no jogo é 12000 pontos, sendo que uma questão acertada vale 1000 pontos.
-![Pontuação](https://1997jorge.github.io/quiz-lima/pontuacao.png)
+![Pontuação](https://1997jorge.github.io/quiz-lima/pontuacao.png{:height="36px" width="36px"})
 
-Se o jogador acertar, vai receber essa mensagem: "Parabéns!! Acertou!!!"
+Se o jogador acertar a questão, vai receber essa mensagem: "Parabéns!! Acertou!!!"
 
 ![Feedback](https://1997jorge.github.io/quiz-lima/exemplo.png)
 
-Se o jogador errar, vai receber essa mensagem: "Errou!!! Quem sabe na próxima vez!!!"
+Se o jogador errar a questão, vai receber essa mensagem: "Errou!!! Quem sabe na próxima vez!!!"
 ![Feedback](https://1997jorge.github.io/quiz-lima/exemplo2.png)
 
