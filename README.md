@@ -9,6 +9,7 @@ O Wireframe desste projeto considera não apenas computadores pessoais, mas tamb
 ## Leia o Manual do Jogo (Screenshots)
 Veja algumas capturas de tela, e explore os recursos.
 
-### Recursos
-![Pontuação]()
-![Feedback]()
+![Pontuação](https://1997jorge.github.io/quiz-lima/pontuacao.png)
+![Feedback](https://1997jorge.github.io/quiz-lima/exemplo.png)
+![Feedback](https://1997jorge.github.io/quiz-lima/exemplo2.png)
+
