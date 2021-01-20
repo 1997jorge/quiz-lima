@@ -30,3 +30,9 @@ Depois de responder a primeira questão, faça o mesmo na segunda questão e suc
 
 A pontuação máxima que pode alcançar no jogo é 12000 pontos, sendo que uma questão acertada vale 1000 pontos.
 ![Pontuação](https://1997jorge.github.io/quiz-lima/pontuacao.png)
+
+Se o jogador quiser tentar acertar as perguntas a partir do inicio, basta ir até o final da pagina e clicar no botão "Jogar de Novo", e a pontuação e as alternativas marcadas irão ser apagadas e o jogador poderá jogar de novo.
+
+![Pontuação](https://1997jorge.github.io/quiz-lima/botao.png)
+
+
