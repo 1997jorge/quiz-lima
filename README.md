@@ -4,6 +4,8 @@ Trabalho individual de LIMA, para fechamento do primeiro semestre do curso de de
 ## Wireframe
 O Wireframe desste projeto considera não apenas computadores pessoais, mas também dispositivos móveis, veja abaixo a imagem do Wireframe
 
+!(/1997jorge/quiz-lima\Jorge - Wireframe.png)
+
 ## Leia o Manual do Jogo (Screenshots)
 Veja algumas capturas de tela, e explore os recursos.
 
