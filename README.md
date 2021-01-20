@@ -6,7 +6,7 @@ O Wireframe desste projeto considera não apenas computadores pessoais, mas tamb
 
 ![Wireframe](https://1997jorge.github.io/quiz-lima/Jorge%20-%20Wireframe.png)
 
-### Leia o Manual do Jogo (Screenshots)
+## Leia o Manual do Jogo (Screenshots)
 # Veja algumas capturas de tela, e explore os recursos.
 
 A pontuação máxima que pode alcançar no jogo é 12000 pontos, sendo que uma questão acertada vale 1000 pontos.
