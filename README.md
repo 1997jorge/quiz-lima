@@ -12,7 +12,7 @@ O Wireframe desste projeto considera não apenas computadores pessoais, mas tamb
 
 Link do Jogo: https://1997jorge.github.io/quiz-lima/quiz/jogo.html 
 
-Quando acessar o link citado acima, o jogador terá que escolher a alternativa correta de cada questão e clicar no botão chamado "enviar"; 
+Quando acessar o link citado acima, o jogador terá que escolher a alternativa correta de cada questão e clicar no botão chamado "enviar".
 
 Exemplo: Na primeira questão, escolha uma alternativa e depois clique em enviar , se acertar vai aparecer isso que mostra a imagem abaixo.
 Vai receber essa mensagem: "Parabéns!! Acertou!!!"
@@ -28,7 +28,7 @@ Se o jogador errar a questão, vai receber essa mensagem: "Errou!!! Quem sabe na
 
 Depois de responder a primeira questão, faça o mesmo na segunda questão e sucessivamente.
 
-Se o jogador quiser tentar acertar as perguntas a partir do inicio, basta ir até o final da pagina e clicar no botão "Jogar de Novo", e a pontuação e as alternativas marcadas irão ser apagadas e o jogador poderá jogar de novo.
+Se o jogador quiser tentar acertar as perguntas a partir do início, basta ir até o final da página e clicar no botão "Jogar de Novo", e a pontuação e as alternativas marcadas irão ser apagadas e o jogador poderá jogar de novo.
 
 A pontuação máxima que pode alcançar no jogo é 12000 pontos, sendo que uma questão acertada vale 1000 pontos.
 ![Pontuação](https://1997jorge.github.io/quiz-lima/pontuacao.png)
