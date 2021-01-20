@@ -10,6 +10,8 @@ O Wireframe desste projeto considera não apenas computadores pessoais, mas tamb
 
 # Veja algumas capturas de tela, e explore os recursos.
 
+Link do Repositório: https://github.com/1997jorge/quiz-lima
+
 Link do Jogo: https://1997jorge.github.io/quiz-lima/quiz/jogo.html 
 
 Quando acessar o link citado acima, o jogador terá que escolher a alternativa correta de cada questão e clicar no botão chamado "enviar".
