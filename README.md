@@ -11,6 +11,5 @@ Veja algumas capturas de tela, e explore os recursos.
 
 ### Recursos
 - {IMG} Pontuação
-- {IMG} Ranking
 - {IMG} Feedback Individual
 - ...
