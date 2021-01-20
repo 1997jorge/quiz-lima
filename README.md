@@ -10,6 +10,5 @@ O Wireframe desste projeto considera não apenas computadores pessoais, mas tamb
 Veja algumas capturas de tela, e explore os recursos.
 
 ### Recursos
-- {IMG} Pontuação
-- {IMG} Feedback Individual
-- ...
+![Pontuação]()
+![Feedback]()
